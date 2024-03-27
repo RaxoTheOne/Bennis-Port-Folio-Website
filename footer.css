@@ -53,7 +53,6 @@ footer h2{
 #item5{
     grid-area: item5;
 }
-
 @media(max-width: 1300px){
     .grid_container{
         grid-template-columns: 1fr 1fr 1fr;
@@ -88,4 +87,6 @@ footer h2{
         width: 100px;
     }
     .grid_item h3{
-   
+        font-size: 24px;
+    }
+}
