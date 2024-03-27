@@ -53,9 +53,7 @@ footer h2{
 #item5{
     grid-area: item5;
 }
-p{
-    text-align: center;
-}
+
 @media(max-width: 1300px){
     .grid_container{
         grid-template-columns: 1fr 1fr 1fr;
